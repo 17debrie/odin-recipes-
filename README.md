@@ -1,3 +1,4 @@
 # My first project  
 
-A simple index.html that links to several recipes
+A simple index.html that links to several recipes  
+Live page: <https://17debrie.github.io/odin-recipes-/>
